@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-theme-craftdocs": "^2.0.7",
+    "vuepress-theme-hope": "^1.11.1"
+  },
+  "name": "please-in-my-front-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/padosum/please-in-my-front-end.git",
+  "author": "padosum <makalu171@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^12.0.4"
+  }
+}
