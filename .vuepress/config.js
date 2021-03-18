@@ -1,7 +1,8 @@
 const { config } = require("vuepress-theme-hope")
 
 module.exports = config({
-  title: "Please In My Front-end",
+  base: '/PIMFE/',
+  title: "Please In My Front-End",
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }]
   ],
