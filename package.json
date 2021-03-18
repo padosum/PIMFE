@@ -11,7 +11,7 @@
   "name": "please-in-my-front-end",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/padosum/please-in-my-front-end.git",
+  "repository": "https://github.com/padosum/PIMFE.git",
   "author": "padosum <makalu171@gmail.com>",
   "license": "MIT",
   "dependencies": {
