@@ -33,7 +33,8 @@ features:
 
   - title: Collection 
     details: JavaScript data structures, Array (APIs, Higher-rder functions), Object (Object literal, Handling Object property), Set & Map 
-
+    link: /collection/
+    
   - title: String
     details: String manipulation, methods, Regular Expressions
 

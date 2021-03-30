@@ -6,20 +6,27 @@ title: JavaScript Syntax
 
 ## type
 
-::: code
+### Primitive Type 
+- 숫자, 문자열, 불리언 값 
+- 자기 자신만을 값으로 갖는 독립적인 타입
+  - `null`, `undefined`  
 
-```javascript Craft 2
-let test = "ttt"
-const item = [1,2,3]
-```
+#### Number
+#### String
+#### Boolean
+#### null
+#### undefined
 
-```html
-<html>
-</html>
-```
+### Reference Type 
+- 숫자, 문자열, 불리언, `null`, `undefined`외의 값 
+- 함수, 배열 
+#### Object
+#### Array
+#### Function
+#### RegExp  
 
-:::
-
+### 데이터가 할당되는 방식에 대하여
+- primitive type은 
 ## string
 
 ## scope 

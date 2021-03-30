@@ -1,4 +1,5 @@
 const { config } = require("vuepress-theme-hope")
+const sideBarConfig = require("./sideBar");
 
 module.exports = config({
   base: '/PIMFE/',
@@ -8,6 +9,6 @@ module.exports = config({
   ],
   themeConfig: {
     logo: "/logo.svg",
-    sidebar: "auto",
+    sidebar: sideBarConfig,
   }
 })
